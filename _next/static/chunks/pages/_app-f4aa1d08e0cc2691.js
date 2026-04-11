@@ -2814,7 +2814,7 @@ function SS(e) {
                                     title: "Dexscreener",
                                     IconSvg: TT,
                                     showCTAs: n,
-                                    href: "https://dexscreener.com/solana/TBA",
+                                    href: "https://dexscreener.com/solana/Ha7dnZtpqwU3djzLvkKdmhLwomGva32ptJdytoDRpump",
                                     onFocus: E,
                                     onBlur: _,
                                     cursor: "dexscreener"
@@ -4663,7 +4663,7 @@ function SS(e) {
             }
         });
         var r = {
-            intro: ["Introducing $Wojak!", "The token where memes meet the blockchain. Dive into pump.fun magic today!\nCA: TBA", "Get to know $Wojak"],
+            intro: ["Introducing $Wojak!", "The token where memes meet the blockchain. Dive into pump.fun magic today!\nCA: Ha7dnZtpqwU3djzLvkKdmhLwomGva32ptJdytoDRpump", "Get to know $Wojak"],
             mission: ["WHO IS Wojak?", "$Wojak, commonly recognized as \"Feels US Guy,\" represents a digital embodiment of emotion on the internet.", "In the age of decentralized finance, tokens like $Wojak provide a nexus between cultural phenomena and digital currency. Built on the Solana-based pump.fun standard, $Wojak is more than just a token; it's a symbol of the confluence of internet culture and blockchain technology.\nTBA"],
             testimonials: [{
                 quote: "Embrace the soft side of memes with the gentle hue of Pink Wojak.",
@@ -4717,8 +4717,8 @@ function SS(e) {
                 return i
             }
         });
-        var r = "https://pump.fun/coin/TBA",
-            o = "https://www.dextools.io/app/solana/pair-explorer/TBA", i = "https://x.com/Solwojakmeme"
+        var r = "https://jup.ag/?sell=So11111111111111111111111111111111111111112&buy=Ha7dnZtpqwU3djzLvkKdmhLwomGva32ptJdytoDRpump",
+            o = "https://www.dextools.io/app/solana/pair-explorer/Ha7dnZtpqwU3djzLvkKdmhLwomGva32ptJdytoDRpump", i = "https://x.com/Solwojakmeme"
     }, 4822: function (e, t, n) {
         "use strict";
         n.d(t, {
