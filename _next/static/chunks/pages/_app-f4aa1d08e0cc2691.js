@@ -2834,7 +2834,7 @@ function SS(e) {
                                     title: "Telegram",
                                     IconSvg: SS,
                                     showCTAs: n,
-                                    href: "https://t.me/VitalikWojak",
+                                    href: "https://t.me/Solwojakmeme",
                                     onFocus: E,
                                     onBlur: _,
                                     cursor: "telegram"
@@ -4718,7 +4718,7 @@ function SS(e) {
             }
         });
         var r = "https://pump.fun/coin/TBA",
-            o = "https://www.dextools.io/app/solana/pair-explorer/TBA", i = "https://x.com/VitalikWojak"
+            o = "https://www.dextools.io/app/solana/pair-explorer/TBA", i = "https://x.com/Solwojakmeme"
     }, 4822: function (e, t, n) {
         "use strict";
         n.d(t, {
