@@ -919,7 +919,7 @@
                 children: [("mission" === t || "testimonials" === t || "skills" === t) && (0, h.jsxs)("div", {
                     className: "\n          grid h-full\n          pointer-events-none\n          absolute top-0 left-0 w-full\n          ".concat(o.about ? "grid-cols-[65%_1fr]" : "grid-rows-[max-content_1fr]", "\n        "),
                     children: [(0, h.jsx)(je, {
-                        title: "WHO_IS_WOJAK?",
+                        title: "WHO_IS_DOOMER?",
                         className: "\n            relative self-baseline\n            ".concat(o.about ? "" : "\n              w-[90%] max-w-[30em] justify-self-start\n            ", "\n            transition-transform duration-[1s]\n            ").concat("mission" === t ? "" : "translate-x-[-80%] translate-y-[-40%]", "\n          "),
                         delay: 1e3,
                         topColor: "violet",

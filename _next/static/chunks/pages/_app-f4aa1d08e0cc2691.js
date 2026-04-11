@@ -2834,7 +2834,7 @@ function SS(e) {
                                     title: "Telegram",
                                     IconSvg: SS,
                                     showCTAs: n,
-                                    href: "https://t.me/Solwojakmeme",
+                                    href: "https://t.me/doomersol_",
                                     onFocus: E,
                                     onBlur: _,
                                     cursor: "telegram"
@@ -2993,7 +2993,7 @@ function SS(e) {
                 projects: null !== (n = o.projects) && void 0 !== n ? n : null
             };
             Z();
-            var a = "WOJAK | Solana Chain", s = "A groundbreaking digital token, drawing inspiration from the iconic Doomer meme.";
+            var a = "DOOMER | Solana Chain", s = "A groundbreaking digital token, drawing inspiration from the iconic Doomer meme.";
             return (0, x.jsxs)(x.Fragment, {
                 children: [(0, x.jsx)(p, {
                     title: a,
