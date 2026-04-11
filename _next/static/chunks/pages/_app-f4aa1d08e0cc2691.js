@@ -4718,7 +4718,7 @@ function SS(e) {
             }
         });
         var r = "https://jup.ag/?sell=So11111111111111111111111111111111111111112&buy=TBA",
-            o = "https://www.dextools.io/app/solana/pair-explorer/TBA", i = "https://x.com/Solwojakmeme"
+            o = "https://www.dextools.io/app/solana/pair-explorer/TBA", i = "https://x.com/doomersol_"
     }, 4822: function (e, t, n) {
         "use strict";
         n.d(t, {
