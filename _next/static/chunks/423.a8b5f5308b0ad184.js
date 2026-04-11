@@ -910,7 +910,7 @@
                             delay: 2325,
                             className: "text-[max(1.5em,16px)]",
                             tabIndex: "menu" === a ? 0 : -1,
-                            children: "Get to know $Wojak"
+                            children: "Get to know $Doomer"
                         })
                     })]
                 })
@@ -1444,7 +1444,7 @@
                     fontSize: .25,
                     font: Z,
                     visible: r,
-                    children: "$Wojak"
+                    children: "$Doomer"
                 })]
             }))
         }
