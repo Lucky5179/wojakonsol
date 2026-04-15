@@ -2814,7 +2814,7 @@ function SS(e) {
                                     title: "Dexscreener",
                                     IconSvg: TT,
                                     showCTAs: n,
-                                    href: "https://dexscreener.com/solana/TBA",
+                                    href: "https://dexscreener.com/solana/8SBRv57gt4BKzfbmffu7gGEXdxvh4XPFZPBWRWwbpump",
                                     onFocus: E,
                                     onBlur: _,
                                     cursor: "dexscreener"
@@ -4663,7 +4663,7 @@ function SS(e) {
             }
         });
         var r = {
-            intro: ["Introducing $BOOMER!", "The token where memes meet the blockchain. Dive into pump.fun magic today!\nCA: TBA", "Get to know $BOOMER"],
+            intro: ["Introducing $BOOMER!", "The token where memes meet the blockchain. Dive into pump.fun magic today!\nCA: 8SBRv57gt4BKzfbmffu7gGEXdxvh4XPFZPBWRWwbpump", "Get to know $BOOMER"],
             mission: ["WHO IS BOOMER?", "$BOOMER, commonly recognized as \"Feels US Guy,\" represents a digital embodiment of emotion on the internet.", "In the age of decentralized finance, tokens like $BOOMER provide a nexus between cultural phenomena and digital currency. Built on the Solana-based pump.fun standard, $BOOMER is more than just a token; it's a symbol of the confluence of internet culture and blockchain technology.\nTBA"],
             testimonials: [{
                 quote: "Embrace the soft side of memes with the gentle hue of Pink BOOMER.",
@@ -4717,8 +4717,8 @@ function SS(e) {
                 return i
             }
         });
-        var r = "https://jup.ag/?sell=So11111111111111111111111111111111111111112&buy=TBA",
-            o = "https://www.dextools.io/app/solana/pair-explorer/TBA", i = "https://x.com/SolBoomer_"
+        var r = "https://jup.ag/?sell=So11111111111111111111111111111111111111112&buy=8SBRv57gt4BKzfbmffu7gGEXdxvh4XPFZPBWRWwbpump",
+            o = "https://www.dextools.io/app/solana/pair-explorer/8SBRv57gt4BKzfbmffu7gGEXdxvh4XPFZPBWRWwbpump", i = "https://x.com/SolBoomer_"
     }, 4822: function (e, t, n) {
         "use strict";
         n.d(t, {
